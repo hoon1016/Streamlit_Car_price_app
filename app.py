@@ -23,6 +23,7 @@ def main():
     if choice == 'Home':
         st.write('이 앱은 고객데이터와 자동차 구매 데이터에 대한 내용 입니다. 해당 고객의 정보를 입력하면, 얼마정도의 차를 구매할 수 있는지를 예측하는 앱입니다.')
         st.write('왼쪽의 사이드바에서 선택하세요.')
+
     elif choice =='EDA':
         run_eda_app()
         
