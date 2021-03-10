@@ -14,6 +14,7 @@ import streamlit as st
 from eda_app import run_eda_app
 from ML_app import run_ML_app
 
+
 def main():
     st.title('자동차 가격 예측')
     #사이드바 메뉴
