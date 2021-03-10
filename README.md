@@ -1,2 +1,2 @@
 # Stremamlit_Car_price_app
-ㅇㅇㅇㅇㅇㅇ
+자동차 가격 예측하기
