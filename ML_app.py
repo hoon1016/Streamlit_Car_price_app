@@ -58,6 +58,7 @@ def run_ML_app():
     if bth :
         st.write('예측 결과입니다. {:,.1f} 달러의 차를 살수 있습니다'.format(orginal[0,0],))
     
+    
 
 
 
